@@ -47,7 +47,7 @@ While analysing the data I noticed some questions need answers, some of the ques
   
   # Data Preparation
   
-  The data has 8 fields (i.e 8 columns) which are; State, Affordability rank, Wellness rank, Weather rank, Culture rank and Crime rank. It also has 50 records (i.e 50 rows)
+  The data has 8 fields (i.e 8 columns) which are; State, Overall rank, Overall score, Affordability rank, Wellness rank, Weather rank, Culture rank and Crime rank. It also has 50 records (i.e 50 rows)
   
   ---
   
