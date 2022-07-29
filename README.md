@@ -22,7 +22,7 @@ This is another factor to look into before concluding on which state to retire t
 
  WELLNESS
 
-Considering the wellness of a state is another thing to do findings on. Do a thorough investigation to know if there is any kind of disease/infection outbreak in such state. For instance, the case of COVID'19 pandemic, if the number of people that has been inflicted by the disease is so much in a state automatically such state is not suitable to retire to.
+Considering the wellness of a state is another thing to do findings on. Do a thorough investigation to know if there is any kind of disease/infection outbreak in such state. For instance, the case of COVID'19 pandemic, if the number of people that has been infected by the disease is so much in a state automatically such state is not suitable to retire to.
 
  CULTURE
 The culture that is being practice in each state differs from one another, be so sure you can adapt to the culture of the state you want to retire to.
