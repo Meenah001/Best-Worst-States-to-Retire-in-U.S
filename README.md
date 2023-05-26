@@ -77,37 +77,45 @@ While analysing the data I noticed some questions need answers, some of the ques
     
  ---    
     
-# Analysis and Visualization
+# Data Analysis and Visualization
     
-  ![TOP 10 BY AFFORDABILITY](https://user-images.githubusercontent.com/97677904/181632240-b81826d1-7ca2-4b8b-9b77-22cf0ee3ad0c.jpg)
-  
-  The above image shows the top 10 states to retire when considering affordability, Tennessee, Okhlahoma and Georgia has the rank 1st, 2nd and 3rd respectively
+![Screenshot 2023-05-26 152551](https://github.com/Meenah001/Best-Worst-States-to-Retire-in-U.S/assets/97677904/b4ced56e-b152-4d62-8f22-75bd6f0a850c)
+ 
+ 
+  The above image shows the top 10 states to retire when considering affordability, Massachusetts, Hawaii and Connecticut has the rank 1st, 2nd and 3rd respectively
   
 ---
   
-![WORST STATES BY AFFORDABILITY](https://user-images.githubusercontent.com/97677904/181632366-2beb4bdc-15a8-4898-b577-325bfe9001bb.jpg)
+![Screenshot 2023-05-26 153343](https://github.com/Meenah001/Best-Worst-States-to-Retire-in-U.S/assets/97677904/9ac546b3-8443-47fb-8463-d1715f2f4ae6)
 
- When considering affordability the above state in tne image should not be thought of retiring to because of their high cost of living. Out of the 50 states listed Hawaii was rank the 50th which makes it a worst state to retire.
+
+ When considering affordability the above state in tne image should not be thought of retiring to because of their high cost of living. Out of the 50 states listed Tennessee was rank number one which makes it a worst state to retire.
  
  ---
  
-![TOP 10 BY WEATHER](https://user-images.githubusercontent.com/97677904/181632456-35b24ef3-2cf4-4d95-87d6-2c772a78c3a0.jpg)
+ ![Screenshot 2023-05-26 152834](https://github.com/Meenah001/Best-Worst-States-to-Retire-in-U.S/assets/97677904/87b6d792-2829-4c17-b189-7c97ee5b1348)
 
-The image depict the top 10 states to retire putting into consideration the weather condition, Arizona is said to be the number one ranked state because of it favourable weather condition, follow by Kentucky, West Virginia, California and others
 
----
-
-![BEST STATES BY WELLNESS](https://user-images.githubusercontent.com/97677904/181632474-40a5b8cd-33a5-4676-acf8-c7bb999f636e.jpg)
-
-Massachusetts is the best state to retire if to consider wellness alone, follow by Hawaii, New Jersey and others
+The image depict the top 10 states to retire putting into consideration the weather condition, Maine is said to be the number one ranked state because of it favourable weather condition, follow by Wyoming, Alaska, Montana and others
 
 ---
 
-![OVERALL BEST STATES](https://user-images.githubusercontent.com/97677904/181632518-6a364a9c-7189-4d9d-9e94-15f1d5b834c6.jpg)
+![Screenshot 2023-05-26 154123](https://github.com/Meenah001/Best-Worst-States-to-Retire-in-U.S/assets/97677904/03bbba61-2c9e-412b-811c-fb67fb8c95af)
+
+
+Mississippi is the best state to retire if to consider wellness alone, follow by Hawaii, New Jersey and others
+
+---
+
+![Screenshot 2023-05-26 154246](https://github.com/Meenah001/Best-Worst-States-to-Retire-in-U.S/assets/97677904/be538fd1-2015-4486-aca9-bd1b67508e83)
+
 
 This shows the 10 best state to retire after all factors has been considered with their overall score and overall rank 
 
-  
+# Analysis Dashboard
+
+![Screenshot 2023-05-26 154511](https://github.com/Meenah001/Best-Worst-States-to-Retire-in-U.S/assets/97677904/e67496a6-d8b3-4564-b43d-b277e23e33ba)
+
   
   
   
